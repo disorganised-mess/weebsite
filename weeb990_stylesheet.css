@@ -1,0 +1,140 @@
+body {
+	margin-bottom: 0px;
+	background-color: #55595b;
+}
+
+/* <!--- link in main body squares --->*/
+.c {
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+
+a.c:link {
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #040AF6;
+	text-decoration: underline;
+}
+a.c:visited {
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #040AF6;
+	text-decoration: underline;
+}
+a.c:hover {
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #C08511;
+	text-decoration: none;
+}
+/*  <!--- end of link in main body squares description--->*/
+td {
+	font-family: Verdana,arial, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+}
+.frame {
+	border: 1px solid #2C2218;
+}
+
+.header 
+{
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:12px;
+}
+/* These styles define link behavior for the bottom of the front page*/
+.listen  {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px; 	
+}
+
+.listen a:link {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px; 	
+	text-decoration:none;
+}
+.listen a:active{
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px;
+text-decoration:none;
+}
+.listen a:visited {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px;  
+text-decoration:none;
+}
+.listen a:hover {
+color:#77d000; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px;  
+text-decoration:none;
+}
+/* These styles define link behavior for the bottom of the front page*/
+.mainNav  {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:12px; 	
+}
+
+.mainNav a:link {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:12px; 	
+	text-decoration:none;
+}
+.mainNav a:active{
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:12px;
+text-decoration:none;
+}
+.mainNav a:visited {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:12px;  
+text-decoration:none;
+}
+.mainNav a:hover {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:12px;  
+text-decoration:underline;
+}
+
+/* <!--- paragraph header text description --->*/
+.text2 {
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+/* <!--- end of paragraph header text description --->*/
+.text3 {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFFFFF;
+}

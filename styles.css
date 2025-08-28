@@ -1,0 +1,363 @@
+body {
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+}
+td, textarea, input, select {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #666666;
+	font-weight: normal;
+	line-height: 14px;
+}
+
+/* These styles define link behavior for the bottom of the front page*/
+.mainNav  {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px; 	
+}
+
+.mainNav a:link {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px; 	
+	text-decoration:dashed;
+}
+.mainNav a:active{
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px;
+text-decoration:dashed;
+}
+.mainNav a:visited {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px;  
+text-decoration:dashed;
+}
+.mainNav a:hover {
+color:#27A8D2; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px;  
+text-decoration:underline;
+}
+
+.header 
+{
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:12px;
+}
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+/* These styles define link behavior for the bottom of the front page*/
+.listen  {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px; 	
+}
+
+.listen a:link {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px; 	
+	text-decoration:none;
+}
+.listen a:active{
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px;
+text-decoration:none;
+}
+.listen a:visited {
+color:#ffffff; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px;  
+text-decoration:none;
+}
+.listen a:hover {
+color:#77d000; 	
+font-family:Verdana, arial, helvetica, sans-serif;
+font-weight:bold;
+font-size:11px;  
+text-decoration:none;
+}
+
+.frame {
+	border: 1px solid #2C2218;
+}
+
+.text1 {
+	font-family: Verdana;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.text2 {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.text3 {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.text4 {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	color: #27A8D2;
+}
+.text5 {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	color: #17658B;
+}
+.text6 {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.text7 {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #000000;
+}
+.text8 {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #94AEC5;
+}
+.text9 {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #4E4E4E;
+}
+
+a:link {
+	color: #FFFFFF;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: underline;
+
+}
+a:visited {
+	color: #FFFFFF;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: underline;
+
+}
+
+a:hover {
+	color: #27A8D2;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;
+	font-variant: normal;
+	text-decoration: none;
+}
+
+a.a:link {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000322;
+	text-decoration: underline;
+}
+a.a:visited {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000322;
+	text-decoration: underline;
+}
+a.a:hover {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000322;
+	text-decoration: none;
+}
+
+a.b:link {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.b:visited {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.b:hover {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #27A8D2;
+	text-decoration: none;
+}
+
+a.c:link {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+	color: #040AF6;
+	text-decoration: underline;
+}
+a.c:visited {
+
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+	color: #040AF6;
+	text-decoration: underline;
+}
+a.c:hover {
+
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+	color: #C08511;
+	text-decoration: none;
+}
+
+a.d:link {
+
+
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.d:visited {
+
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.d:hover {
+
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+a.e:link {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #71A2CB;
+	text-decoration: underline;
+}
+a.e:visited {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #71A2CB;
+	text-decoration: underline;
+}
+a.e:hover {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #81992B;
+	text-decoration: none;
+}
+
+a.f:link {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #898989;
+	text-decoration: underline;
+}
+a.f:visited {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #898989;
+	text-decoration: underline;
+}
+a.f:hover {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #81992B;
+	text-decoration: none;
+}
+
+a.g:link {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: underline;
+}
+a.g:visited {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: underline;
+}
+a.g:hover {
+
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FF6600;
+	text-decoration: underline;
+}
+
+.inputstyle {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: #5F726F;
+	background-color: #E2EDEB;
+	border: 1px solid #333333;
+}
