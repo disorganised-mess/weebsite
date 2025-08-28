@@ -1,0 +1,4 @@
+! Home	Visitor	Home Score	Visitor Score
+HCHS	Triton	7	8
+WHHS	SJHS	7	8
+
